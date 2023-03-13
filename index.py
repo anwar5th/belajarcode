@@ -1,6 +1,7 @@
 #komentar pertama
 
-umur = 23
+def luarPersegi(sisi):
+	luas = sisi * sisi
+	return luas
 
-if(umur == 23):
-	print ("oke benar")
+print ("ini adalah luas persegi", luarPersegi(6))
