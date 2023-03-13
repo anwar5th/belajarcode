@@ -1,7 +1,6 @@
+#komentar pertama
 
-umur = 22
+umur = 23
 
-def test():
-	print (umur)
-
-test()
+if(umur == 23):
+	print ("oke benar")
