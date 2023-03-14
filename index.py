@@ -1,3 +1,7 @@
-#membuat loop 
+#membuat fungsi
 
-test_string = "ini string"
+def iniFungsi():
+	print ("ini fungsi")
+
+iniFungsi()
+
