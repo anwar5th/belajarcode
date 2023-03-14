@@ -1,7 +1,7 @@
-#komentar pertama
+#membuat loop 
 
-def luarPersegi(sisi):
-	luas = sisi * sisi
-	return luas
+angka = [1,2,3,4,5]
 
-print ("ini adalah luas persegi", luarPersegi(6))
+for x in angka:
+	print(x)
+	pass
