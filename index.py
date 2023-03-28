@@ -5,3 +5,10 @@ def iniFungsi():
 
 iniFungsi()
 
+def testIf():
+	a = 20
+	b = 30
+	if b > a :
+		print ("benar")
+
+testIf()
