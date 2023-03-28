@@ -1,14 +1,7 @@
-#membuat fungsi
+#membuat perulangan
 
-def iniFungsi():
-	print ("ini fungsi")
+a=1
 
-iniFungsi()
-
-def testIf():
-	a = 20
-	b = 30
-	if b > a :
-		print ("benar")
-
-testIf()
+while a<6:
+	print(a)
+	a+=1
